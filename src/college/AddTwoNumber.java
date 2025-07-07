@@ -1,8 +1,10 @@
-interface AddTwoNumber {
+package college;
+
+interface AddOperation {
     int add(int a, int b);
 }
 
-public class LambdaAddition {
+public class AddTwoNumber {
     public static void main(String[] args) {
 
         // Lambda expression to add two numbers
