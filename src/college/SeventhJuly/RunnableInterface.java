@@ -1,4 +1,3 @@
-
 package college.SeventhJuly;
 
 class EvenOddChecker implements Runnable {
