@@ -1,4 +1,4 @@
-package college;
+package college.SeventhJuly;
 interface SquareOperation {
     int square(int x);
 }

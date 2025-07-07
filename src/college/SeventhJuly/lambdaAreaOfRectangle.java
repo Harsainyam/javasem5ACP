@@ -1,3 +1,5 @@
+package college.SeventhJuly;
+
 interface RectangleArea {
     int area(int length, int breadth);
 }

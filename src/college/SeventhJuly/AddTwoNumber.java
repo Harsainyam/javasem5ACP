@@ -1,4 +1,4 @@
-package college;
+package college.SeventhJuly;
 
 interface AddOperation {
     int add(int a, int b);

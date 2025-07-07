@@ -1,4 +1,4 @@
-package college;
+package college.SeventhJuly;
 
 interface A {
     public abstract void display();

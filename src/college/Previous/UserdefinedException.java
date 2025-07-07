@@ -1,6 +1,4 @@
-package college;
-
-import java.util.*;
+package college.Previous;
 
 class InvalidAgeException extends Exception {
     public InvalidAgeException(String message) {

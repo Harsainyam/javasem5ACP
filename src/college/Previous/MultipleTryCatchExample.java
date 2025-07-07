@@ -1,4 +1,4 @@
-package college;
+package college.Previous;
 
 public class MultipleTryCatchExample {
 

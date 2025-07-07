@@ -1,4 +1,4 @@
-package college;
+package college.Previous;
 public class ArithemeticExceptionExample {
     public static void main(String[] args) {
         int a = 10;

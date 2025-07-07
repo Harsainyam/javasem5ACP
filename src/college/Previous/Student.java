@@ -1,4 +1,4 @@
-package college;
+package college.Previous;
 public class  Student {
 
     String name;

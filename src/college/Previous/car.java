@@ -1,4 +1,4 @@
-package college;
+package college.Previous;
 
 public class car {
     String model;
