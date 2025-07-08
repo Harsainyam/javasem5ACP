@@ -1,3 +1,4 @@
+package college.EightJuly;
 import java.util.stream.IntStream;
 
 public class LambdaToPrintEachCharacterOfEachString {
