@@ -22,5 +22,7 @@ public class OptionalExample {
         Optional<String> maybeStr = Optional.ofNullable(str);
 
         System.out.println("Result: " + maybeStr.orElse("Value was null"));
+
+
     }
 }
